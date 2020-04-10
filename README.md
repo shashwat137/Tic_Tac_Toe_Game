@@ -17,7 +17,7 @@ Anaconda Prompt
 ```
 
 ### Running the Program
-Go to the location of the tic_tac_toe.py on the command line. To run it enter the following.
+Go to the location of the [tic_tac_toe.py](tic_tac_toe.py) on the command line. To run it enter the following.
 ```
 python tic_tac_toe.py
 ```
