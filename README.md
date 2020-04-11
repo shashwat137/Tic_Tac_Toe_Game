@@ -40,4 +40,5 @@ Follow the onscreen game instructions and play.
 * Shashwat Srivastava
 
 ### Acknowledgements
-* I Made this as part of a personal project in order to learn and for fun.
+* Link to the Tutorial from which the game was made - [Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
+* I made this as part of a personal project in order to learn and for fun.
