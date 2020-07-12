@@ -18,8 +18,13 @@ Anaconda Prompt
 
 ### Running the Program
 Go to the location of the [tic_tac_toe.py](tic_tac_toe.py) on the command line. To run it enter the following.
+On Windows:
 ```
 python tic_tac_toe.py
+```
+On Linux/Mac:
+```
+python3 tic_tac_toe.py
 ```
 Alternatively you may run the program on jupyter notebook.
 Open Anaconda prompt and move to the directory where the [tic_tac_toe.py](tic_tac_toe.py) is stored. Enter the following in the anaconda prompt.
