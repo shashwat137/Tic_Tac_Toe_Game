@@ -1,5 +1,5 @@
 # Tic_Tac_Toe_Game
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)  
 Tic Tac Toe game in python for 2 players. Two players may play where one choose 'X' and the other 'O'.
 A 3 X 3 Tic Tac Toe game is created and each player enters the position of the grid via the numpad.
 
